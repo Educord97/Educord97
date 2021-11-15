@@ -19,8 +19,9 @@
 </div><br/>
                                                                             
 ## Currently working with full-stack Júnior 🧑🏼‍💻            
-- [Linkedin:] (linkedin.com/in/eduardolima97/)<br/>
-- [E-mail:] (eduuhliima97@gmail.com)                                                                                                                                            
+- [Linkedin](https://www.linkedin.com/in/eduardolima97/)<br/>
+- eduuhliima97@gmail.com                                                                                                                                            
+                                                                                                                                           
                                                                                                                                                
                                                                                                                                                
                                                                                                                                                
