@@ -23,7 +23,7 @@
 - [Linkedin](https://www.linkedin.com/in/eduardolima97/)<br/>
 - eduuhliima97@gmail.com                                                                                                                                            
                                     
-![Snake animation](https://github.com/Educord97/Educord97/blob/output/github-contribution-grid-snake.svg)
+
                                                                                                                                                
                                                                                                                                                
                                                                                                                                                
