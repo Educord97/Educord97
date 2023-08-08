@@ -19,7 +19,7 @@
   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
                                                                             
-## Currently working with full-stack Developer 🧑🏼‍💻            
+## Currently working with front-end Developer 🧑🏼‍💻            
 - [Linkedin](https://www.linkedin.com/in/eduardolima97/)<br/>
 - eduuhliima97@gmail.com                                                                                                                                            
                                     
